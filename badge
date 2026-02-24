@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# Mark a GitHub Achievement badge as earned in README.md
+# Usage: ./badge "Pull Shark"   or   ./badge   (interactive menu)
+cd "$(dirname "$0")"
+python3 scripts/badge.py "$@"
