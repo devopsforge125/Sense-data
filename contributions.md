@@ -8,6 +8,6 @@ Add your name and what you did when you complete a task. One line per person.
 - **Example**: Added my bio (Pull Shark #2)
 
 - **gh-achievements**: Achievement: Pull Shark #1
-- **gh-achievements**: Achievement: Pull Shark #1
 - **gh-achievements**: Achievement: Pull Shark #2
+- **gh-achievements**: YOLO merge (no review)
 <!-- Add your line below -->
